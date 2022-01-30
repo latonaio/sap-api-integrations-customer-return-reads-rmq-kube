@@ -7,10 +7,10 @@ https://api.sap.com/api/OP_API_CUSTOMER_RETURN_SRV_0001/overview
 ## 動作環境  
 sap-api-integrations-customer-return-reads-rmq-kube は、主にエッジコンピューティング環境における動作にフォーカスしています。  
 使用する際は、事前に下記の通り エッジコンピューティングの動作環境（推奨/必須）を用意してください。  
-・ エッジ Kubernetes （推奨）    
+・ エッジ Kubernetes （推奨）  
 ・ AION のリソース （推奨)    
-・ OS: LinuxOS （必須）    
-・ CPU: ARM/AMD/Intel（いずれか必須）  　
+・ OS: LinuxOS （必須）  
+・ CPU: ARM/AMD/Intel（いずれか必須）  
 ・ RabbitMQ on Kubernetes  
 ・ RabbitMQ Client   
 
