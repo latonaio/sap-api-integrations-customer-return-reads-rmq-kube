@@ -1,0 +1,18 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-customer-return-reads/SAP_API_Caller/caller.go#L93",
+	"function": "sap-api-integrations-customer-return-reads/SAP_API_Caller.(*SAPAPICaller).Header",
+	"level": "INFO",
+	"message": [
+		{
+			"CustomerReturn": "60000000",
+			"CustomerReturnItem": "10",
+			"ScheduleLine": "1",
+			"OrderQuantityUnit": "PC",
+			"ConfdOrderQtyByMatlAvailCheck": "3",
+			"DeliveredQtyInOrderQtyUnit": "3",
+			"OpenConfdDelivQtyInOrdQtyUnit": "0",
+			"DelivBlockReasonForSchedLine": ""
+		}
+	],
+	"time": "2022-01-27T22:55:42+09:00"
+}

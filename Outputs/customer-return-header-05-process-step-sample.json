@@ -1,0 +1,38 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-customer-return-reads/SAP_API_Caller/caller.go#L86",
+	"function": "sap-api-integrations-customer-return-reads/SAP_API_Caller.(*SAPAPICaller).Header",
+	"level": "INFO",
+	"message": [
+		{
+			"RetsMgmtProcess": "1",
+			"RetsMgmtProcessItem": "10",
+			"RetsMgmtProcItmQtySplit": "0",
+			"RetsMgmtProcessStep": "0001",
+			"ReturnsDocumentType": "00",
+			"ReturnsDocument": "0060000000",
+			"ReturnsDocumentItem": "10",
+			"ReturnsDocumentStatus": "",
+			"ReturnsDocumentApprovalStatus": "",
+			"ReturnsReferenceDocumentType": "00",
+			"ReturnsReferenceDocument": "0000000348",
+			"ReturnsReferenceDocumentItem": "10",
+			"RetsMgmtProcStepExecStatus": "1"
+		},
+		{
+			"RetsMgmtProcess": "1",
+			"RetsMgmtProcessItem": "10",
+			"RetsMgmtProcItmQtySplit": "0",
+			"RetsMgmtProcessStep": "0021",
+			"ReturnsDocumentType": "11",
+			"ReturnsDocument": "0084000000",
+			"ReturnsDocumentItem": "10",
+			"ReturnsDocumentStatus": "",
+			"ReturnsDocumentApprovalStatus": "",
+			"ReturnsReferenceDocumentType": "00",
+			"ReturnsReferenceDocument": "0060000000",
+			"ReturnsReferenceDocumentItem": "10",
+			"RetsMgmtProcStepExecStatus": "1"
+		}
+	],
+	"time": "2022-01-27T22:55:41+09:00"
+}

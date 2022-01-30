@@ -1,0 +1,32 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-customer-return-reads/SAP_API_Caller/caller.go#L65",
+	"function": "sap-api-integrations-customer-return-reads/SAP_API_Caller.(*SAPAPICaller).Header",
+	"level": "INFO",
+	"message": [
+		{
+			"CustomerReturn": "60000000",
+			"PartnerFunction": "SH",
+			"Customer": "USCU-CUS07",
+			"Supplier": ""
+		},
+		{
+			"CustomerReturn": "60000000",
+			"PartnerFunction": "SP",
+			"Customer": "USCU-CUS07",
+			"Supplier": ""
+		},
+		{
+			"CustomerReturn": "60000000",
+			"PartnerFunction": "BP",
+			"Customer": "USCU-CUS07",
+			"Supplier": ""
+		},
+		{
+			"CustomerReturn": "60000000",
+			"PartnerFunction": "PY",
+			"Customer": "USCU-CUS07",
+			"Supplier": ""
+		}
+	],
+	"time": "2022-01-27T22:55:39+09:00"
+}
